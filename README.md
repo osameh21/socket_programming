@@ -21,5 +21,6 @@ This is a file that you can connect a client to the server and connect the follo
      
      
 
-Note that the command is sent from the client
+Note that the command is sent from the client.
+
 Note that the first message is sent from the server
